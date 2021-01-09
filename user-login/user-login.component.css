@@ -1,0 +1,10 @@
+.bodybg-color{
+  background-color: black;
+}
+:host{
+  background-color: black;
+}
+h1{
+  text-align: center;
+  color: black;
+}
